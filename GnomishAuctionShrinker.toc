@@ -1,4 +1,4 @@
-## Interface: 30000
+## Interface: 50400
 
 ## Title: GnomishAuctionShrinker
 ## Notes: Compact AH browser panel
